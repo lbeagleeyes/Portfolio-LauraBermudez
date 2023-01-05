@@ -6,4 +6,4 @@
 * Check all my UW Full Stack Developer Bootcamp homeworks and projects in the portfolio page
 
 
-Use https://lbeagleeyes.github.io/Portfolio to access my portfolio.
+Use https://lbeagleeyes.github.io/Portfolio-LauraBermudez/ to access my portfolio.
